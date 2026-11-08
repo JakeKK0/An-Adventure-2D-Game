@@ -10,7 +10,7 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 
 | Ataque | Interação com Objetos |
 | :---: | :---: |
-| ![Atacando](https://via.placeholder.com/400x225?text=Atacando) | ![Interação](https://via.placeholder.com/400x225?text=Interação) |
+| ![Atacando](./imagens/atacando.png) | ![Interação]() |
 
 | Caixa de Diálogo | Visão da Editor/Projeto |
 | :---: | :---: |
