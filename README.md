@@ -16,8 +16,6 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 | :---: | :---: |
 | ![Diálogo](./imagens/caixa_de_dialogo.png) | ![Unity Editor](./imagens/tela_do_projeto.png) |
 
-*(Dica: substitua as URLs dos placeholders acima pelos links reais das suas imagens no repositório)*
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
