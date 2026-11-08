@@ -10,11 +10,11 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 
 | Ataque | Interação com Objetos |
 | :---: | :---: |
-| ![Atacando](./imagens/atacando.png) | ![Interação]() |
+| ![Atacando](./imagens/atacando.png) | ![Interação](./imagens/interagindo_com_objetos.png) |
 
 | Caixa de Diálogo | Visão da Editor/Projeto |
 | :---: | :---: |
-| ![Diálogo](https://via.placeholder.com/400x225?text=Caixa+de+Diálogo) | ![Unity Editor](https://via.placeholder.com/400x225?text=Tela+do+Projeto) |
+| ![Diálogo](./imagens/caixa_de_dialogo.png) | ![Unity Editor](./imagens/tela_do_projeto.png) |
 
 *(Dica: substitua as URLs dos placeholders acima pelos links reais das suas imagens no repositório)*
 
