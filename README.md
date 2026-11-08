@@ -53,19 +53,7 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 
 ## 💻 Como Rodar o Projeto Localmente
 
-### Pré-requisitos
-* **Unity Hub** instalado.
-* **Unity 2022.3.40f1** (ou superior).
-
-### Passos
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/An-Adventure-2D-Game.git
-   ```
-2. Abra o **Unity Hub**.
-3. Clique em **Add** (Adicionar) e selecione a pasta do projeto clonado.
-4. Abra o projeto na versão do Unity correspondente.
-5. Abra a cena principal localizada em `Assets/Scenes/SampleScene.unity` e pressione o botão **Play** ▶️.
+**Aviso: O jogo ainda não tem instalação disponível. Para testar, entre no link do ITCH.io acima.**
 
 ---
 
