@@ -47,7 +47,7 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 | **Movimentação** | `W`, `A`, `S`, `D` ou `Setas` |
 | **Interagir** | `E` |
 | **Avançar Diálogo** | `Enter` |
-| **Atacar** | `Espaço` / `Botão Esquerdo do Mouse` |
+| **Atacar** | `Espaço` |
 
 ---
 
@@ -62,4 +62,4 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido por **Jakekk0** 🚀
+Desenvolvido por **Jake KK / Henrique do Nascimento Gerass** 🚀
