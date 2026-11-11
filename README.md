@@ -62,4 +62,4 @@ Um jogo de aventura em **2D Top-Down** desenvolvido na engine **Unity**. Explore
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido por **Jake KK / Henrique do Nascimento Gerass** 🚀
+Desenvolvido por **Jake KK / Henrique do Nascimento Gerassi** 🚀
